@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  // margin-right: 10px;
+
+  input {
+    max-width: 1280px;
+    width: 100%;
+    font-size: 16px;
+    padding: 6px 20px;
+    outline: none;
+    margin: 6px 10px;
+    border-radius: 10px;
+  }
+}

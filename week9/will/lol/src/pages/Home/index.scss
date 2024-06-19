@@ -1,0 +1,63 @@
+.home {
+  background-color: #000;
+
+  .logo {
+    display: block;
+
+    img {
+      margin-top: 60px;
+      position: relative;
+      width: 400px;
+      height: auto;
+      left: calc(50% - 200px);
+    }
+  }
+
+  .champions-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    padding: 100px;
+    background-color: #000;
+
+    .champion {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      transition: 0.2s;
+      position: relative;
+
+      a {
+        text-decoration: none;
+      }
+
+      h2 {
+        color: transparent;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0;
+        z-index: 2;
+      }
+
+      img {
+        height: auto;
+        width: 100%;
+        z-index: 1;
+        margin-bottom: 20px;
+        cursor: pointer;
+      }
+
+      img:hover {
+        opacity: 0.5;
+      }
+
+      h2:hover {
+        color: #fff;
+        font-size: 40px;
+        font-weight: 900;
+      }
+    }
+  }
+}

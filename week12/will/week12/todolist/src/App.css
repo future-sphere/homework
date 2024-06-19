@@ -1,0 +1,9 @@
+.App {
+  position: relative;
+}
+
+.input {
+  position: absolute;
+  left: 170px;
+  top: 370px;
+}

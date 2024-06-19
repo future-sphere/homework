@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Design Team",
+    "members": ["1", "2", "3", "4", "5"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": false
+      },
+      {
+        "sender": "2",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "New Team member",
+    "members": ["1", "3", "5"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "3",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "5",
+        "sendTime": "1204",
+        "text": "We are all excited to have you, we loved the work that you showed us during your interview and you fit well with everyone on our team and company. If you have any questions feel free to ask and someone on the team will help you out.",
+        "isRead": false
+      },
+      {
+        "sender": "3",
+        "sendTime": "1230",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      },
+      {
+        "sender": "1",
+        "sendTime": "1458",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "New Projects",
+    "members": ["1", "3", "4"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "3",
+        "sendTime": "1305",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "4",
+        "sendTime": "1543",
+        "text": "Okay, thanks for letting me know! One question I do have is about this group, is this the main group for the design team or is there a separate chat? I’m just trying to understand.",
+        "isRead": true
+      }
+    ]
+  },
+  {
+    "title": "Progress Updates",
+    "members": ["1", "2", "3"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0807",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "3",
+        "sendTime": "1024",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "3",
+        "sendTime": "1145",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "2",
+        "sendTime": "1451",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "1",
+        "sendTime": "1600",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      }
+    ]
+  },
+  {
+    "title": "Job Expectations",
+    "members": ["1", "5"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": false
+      },
+      {
+        "sender": "5",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "First Project",
+    "members": ["1", "6", "8"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "6",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      },
+      {
+        "sender": "8",
+        "sendTime": "1340",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "New Job Opportunity",
+    "members": ["1", "7"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "7",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "Congratulations",
+    "members": ["1", "7", "8"],
+    "conversations": [
+      {
+        "sender": "1",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "7",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      },
+      {
+        "sender": "8",
+        "sendTime": "1208",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "future sphere",
+    "members": ["7", "8"],
+    "conversations": [
+      {
+        "sender": "7",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "8",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": false
+      }
+    ]
+  },
+  {
+    "title": "students",
+    "members": ["5", "6", "7", "8"],
+    "conversations": [
+      {
+        "sender": "5",
+        "sendTime": "0952",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "6",
+        "sendTime": "1108",
+        "text": "Thank you, I’m so excited to join this amazing design team! I’m very grateful to have the opportunity to work on some products that will impact people's lives. I can’t wait to get started!",
+        "isRead": true
+      },
+      {
+        "sender": "7",
+        "sendTime": "1109",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "8",
+        "sendTime": "1200",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": true
+      },
+      {
+        "sender": "5",
+        "sendTime": "1215",
+        "text": "Hi Justin! We just wanted to welcome you to our team!",
+        "isRead": false
+      }
+    ]
+  }
+]

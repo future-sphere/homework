@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "firstName": "Victor",
+    "lastName": "Roberts",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1583092522/week-8-data/user-avatars/1.jpg"
+  },
+  {
+    "id": "2",
+    "firstName": "Angela",
+    "lastName": "Lopez",
+    "position": "Designer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/2.png"
+  },
+  {
+    "id": "3",
+    "firstName": "Justin",
+    "lastName": "Hamilton",
+    "position": "Designer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/3.png"
+  },
+  {
+    "id": "4",
+    "firstName": "Terry",
+    "lastName": "Griffin",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/4.png"
+  },
+  {
+    "id": "5",
+    "firstName": "Angela",
+    "lastName": "Lopez",
+    "position": "Designer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/5.png"
+  },
+  {
+    "id": "6",
+    "firstName": "Sunny",
+    "lastName": "Wang",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/6.png"
+  },
+  {
+    "id": "7",
+    "firstName": "Sheldon",
+    "lastName": "Yu",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/7.png"
+  },
+  {
+    "id": "8",
+    "firstName": "Kaina",
+    "lastName": "Zhang",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/8.png"
+  },
+  {
+    "id": "9",
+    "firstName": "Xu",
+    "lastName": "Chu",
+    "position": "Engineer",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/9.png"
+  },
+  {
+    "id": "10",
+    "firstName": "Peter",
+    "lastName": "Zheng",
+    "position": "CEO",
+    "avatar": "https://res.cloudinary.com/dtgh01qqo/image/upload/v1582504854/week-8-data/user-avatars/10.png"
+  }
+]
