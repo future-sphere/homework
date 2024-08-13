@@ -1,0 +1,13 @@
+form {
+	margin-top: 15px;
+	border-radius: 3px;
+	box-shadow: 0px 2px 4px #eeeeee;
+}
+
+input {
+	padding: 10px 15px;
+	border: none;
+	border-radius: 3px;
+	outline: none;
+	width: 100%;
+}
